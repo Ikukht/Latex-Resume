@@ -1,2 +1,2 @@
 # Latex-Resume
-Usage: xelatex {your-cv}.tex
+Usage: xelatex {file}.tex
